@@ -2,11 +2,11 @@
     "symbol": "SGLCN",
     "name": "SeagullCoin",
     "description": "SeagullCoin is an asset native to the XRPL and bridges other ISO20022 assets using a 1:1 pairing",
-    "website": "http://linktr.ee/boredseagullclub",
+    "website": "http://bored-seagull-club.xyz",
     "communities": {
         "email": "boredseagulls@gmail.com",
         "twitter": "https://twitter.com/bored_club",
         "facebook": "https://www.facebook.com/",
-        "github": "https://github.com/"
+        "github": "https://github.com/seagulldex/Seagullcoin/blob/73f31f08fa29f05e07faa459889484079d9c4ed9/server.js"
     }
 }
