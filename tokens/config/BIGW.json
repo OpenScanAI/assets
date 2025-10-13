@@ -1,0 +1,23 @@
+{
+  "id": "0xc9b1b2842c60303a06f60fdd005654575d6ae466",
+  "symbol": "BIGW",
+  "name": "Bigw",
+  "decimals": 18,
+  "description": "BigWater is a unique web3 initiative that operates a Proof of Impact Protocol based on Decentralized Physical Infrastructure Networks (DePIN) and Real-World Assets (RWA).",
+  "website": "https://bigwater.io",
+  "auditReport": {
+    "name": "Quill Audits",
+    "url": "https://www.quillaudits.com/leaderboard/bigwater"
+  },
+  "communities": {
+    "email": "parag@bigwater.io",
+    "telegram": "https://t.me/bigwaterchat",
+    "twitter": "https://x.com/BigWProtocol",
+    "linkedin": "https://www.linkedin.com/company/bigwaterprotocol/",
+    "discord": "https://discord.gg/S69DvAby",
+    "medium": "",
+    "github": "https://github.com/BigWater-Protocol",
+    "coinmarketcap": "",
+    "coingecko": ""
+  }
+}
